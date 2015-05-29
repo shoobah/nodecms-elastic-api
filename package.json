@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shoobah/nodecms-elastic-api/issues"
   },
-  "homepage": "https://github.com/shoobah/nodecms-elastic-api#readme"
+  "homepage": "https://github.com/shoobah/nodecms-elastic-api#readme",
+  "dependencies": {
+    "elasticsearch": "^4.1.0"
+  }
 }
