@@ -1,0 +1,23 @@
+{
+  "name": "nodecms-elastic-api",
+  "version": "0.0.1",
+  "description": "Backend for NodeCMS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoobah/nodecms-elastic-api.git"
+  },
+  "keywords": [
+    "backend",
+    "api"
+  ],
+  "author": "Anders Sjöberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoobah/nodecms-elastic-api/issues"
+  },
+  "homepage": "https://github.com/shoobah/nodecms-elastic-api#readme"
+}
