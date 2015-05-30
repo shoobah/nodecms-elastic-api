@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/shoobah/nodecms-elastic-api#readme",
   "dependencies": {
-    "elasticsearch": "^4.1.0"
+    "babel": "^5.4.7",
+    "elasticsearch": "^4.1.0",
+    "restify": "^3.0.3"
   }
 }

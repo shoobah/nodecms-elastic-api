@@ -1,0 +1,10 @@
+{
+  "preset"                  : "google",
+  "esnext"                  : true,
+  "esprima"                 : "esprima-fb",
+  "esprimaOptions"          : {"tolerant":false},
+  "maximumLineLength"       : 820,
+  "validateIndentation"     : 4,
+  "validateQuoteMarks"      : "'",
+  "disallowMultipleVarDecl" : "exceptUndefined"
+}
